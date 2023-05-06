@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Rectangle 2 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-269.000000, -1143.000000)" fill="#23C03E">
+            <g id="Rectangle-2-Copy" transform="translate(269.000000, 1143.000000)">
+                <rect id="Rectangle" stroke="#23C03E" stroke-width="4" fill-opacity="0.2" x="2" y="2" width="44" height="44" rx="22"></rect>
+                <g id="Group" transform="translate(10.000000, 9.000000)" fill-rule="nonzero">
+                    <path d="M16.373918,28.8762159 C17.1012096,29.2010514 18.0103241,29.0386337 18.3739699,28.5513805 C20.010376,26.1151144 23.2831882,20.2680758 21.828605,14.5834549 C20.3740218,8.73641633 14.5556889,4.8383906 12.0101683,3.21421321 C11.2828767,2.88937774 10.3737622,3.05179548 10.0101164,3.53904869 C8.37371031,5.97531477 5.10089809,11.8223534 6.55548129,17.5069742 C7.22178239,20.1853279 9.77430541,27.4979668 10.567302,24.3393461 C14.7463671,7.69352365 14.9944243,28.0840447 16.373918,28.8762159 Z" id="Path" transform="translate(14.192043, 16.045215) rotate(30.000000) translate(-14.192043, -16.045215) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
